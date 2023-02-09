@@ -56,7 +56,6 @@ const Categories = () => {
                   }}>
                   {pop.name}
                 </Text>
-
                 <Text
                   style={{
                     fontSize: SIZES.h4,
